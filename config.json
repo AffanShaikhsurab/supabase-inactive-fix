@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Database1",
+    "supabase_url": "https://ekbipopavqtvbawxxzgx.supabase.co",
+    "supabase_key_env": "S1",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database2",
+    "supabase_url": "https://fdrpnpxwpsdhqafoylsv.supabase.co",
+    "supabase_key_env": "S2",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database3",
+    "supabase_url": "https://cvafaoaggpmqykbagzjy.supabase.co",
+    "supabase_key_env": "S3",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database4",
+    "supabase_url": "https://tfxbcnluzthdrwhtrntb.supabase.co",
+    "supabase_key_env": "S4",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database5",
+    "supabase_url": "https://djoowonzyncrmvdexnbg.supabase.co",
+    "supabase_key_env": "S5",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database6",
+    "supabase_url": "https://kwrndehoqlbteybfjqkr.supabase.co",
+    "supabase_key_env": "S6",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database7",
+    "supabase_url": "https://senmvvlndimzbjrhqsby.supabase.co",
+    "supabase_key_env": "S7",
+    "table_name": "keep-alive"
+  },
+  {
+    "name": "Database8",
+    "supabase_url": "https://yacpiduuqraflqyfjouz.supabase.co",
+    "supabase_key_env": "S8",
+    "table_name": "keep-alive"
+  }
+]
