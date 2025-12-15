@@ -38,9 +38,11 @@ jobs:
           # Add your Supabase keys as GitHub Secrets
           # Go to: Settings > Secrets and variables > Actions > New repository secret
           # Create secrets matching the env var names in your config.json
-          SUPABASE_KEY_1: ${{ secrets.SUPABASE_KEY_1 }}
-          SUPABASE_KEY_2: ${{ secrets.SUPABASE_KEY_2 }}
-          SUPABASE_KEY_3: ${{ secrets.SUPABASE_KEY_3 }}
-          SUPABASE_KEY_4: ${{ secrets.SUPABASE_KEY_4 }}
-          SUPABASE_KEY_5: ${{ secrets.SUPABASE_KEY_5 }}
-          # Add more as needed for your databases
+          S1: ${{ secrets.S1 }}
+          S2: ${{ secrets.S2 }}
+          S3: ${{ secrets.S3 }}
+          S4: ${{ secrets.S4 }}
+          S5: ${{ secrets.S5 }}
+          S6: ${{ secrets.S6 }}
+          S7: ${{ secrets.S7 }}
+          S8: ${{ secrets.S8 }}
